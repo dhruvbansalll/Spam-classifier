@@ -1,2 +1,2 @@
-# email-spam-classifier-new
+# Spam classifier
 End to end code for the email spam classifier project
