@@ -1,2 +1,3 @@
 # Spam classifier
-End to end code for the email spam classifier project
+To classify spam emails.
+Dataset used: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
